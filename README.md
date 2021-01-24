@@ -5,4 +5,6 @@ Homebrew formulae
 brew install stuart-warren/apps/pair
 brew install stuart-warren/apps/gitlab
 brew install stuart-warren/apps/yamlfmt
+brew install stuart-warren/apps/dotfiles
+brew install stuart-warren/apps/localpod
 ```
