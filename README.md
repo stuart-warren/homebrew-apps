@@ -7,4 +7,5 @@ brew install stuart-warren/apps/gitlab
 brew install stuart-warren/apps/yamlfmt
 brew install stuart-warren/apps/dotfiles
 brew install stuart-warren/apps/localpod
+brew install stuart-warren/apps/pbcopy
 ```
